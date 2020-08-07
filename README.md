@@ -2,4 +2,4 @@
 
 Este repositório serve de exemplo para testar comandos do git
 
-![./darthVader.png](Darth Vader)
+![Darth Vader](./darthVader.png)
